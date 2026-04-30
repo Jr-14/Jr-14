@@ -7,9 +7,6 @@ Currently interested in:
 - Algorithms and Datastructures
 - Maybe Distributed Systems?
 
-working on:
-- Gameboy Emulator
-
 
 <!---
 Jr-14/Jr-14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
