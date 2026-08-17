@@ -5,7 +5,9 @@ I guess I like:
 - Neovim
 - Systems Programming
 - Algorithms and Datastructures
-- Maybe Distributed Systems?
+- Distributed Systems
+- Open Source
+- Maybe TypeScript?? 🤔
 
 
 <!---
