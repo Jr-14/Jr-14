@@ -1,6 +1,6 @@
-👋 Hi, I’m John 😄
+Hi, I’m John 👋
 
-Currently interested in:
+I guess I like:
 - Zig
 - Neovim
 - Systems Programming
